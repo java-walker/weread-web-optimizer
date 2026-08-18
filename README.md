@@ -17,7 +17,7 @@
 
 1. 安装浏览器扩展 Tampermonkey（Chrome / Edge / Firefox 均可）
 2. 点击安装脚本：
-   [space-to-arrowright.user.js](https://github.com/java-walker/weread-web-optimizer/raw/main/space-to-arrowright.user.js)
+   [space-to-arrowright.user.js](https://cdn.jsdelivr.net/gh/java-walker/weread-web-optimizer@main/space-to-arrowright.user.js)
    （或把仓库里的 `space-to-arrowright.user.js` 内容新建到 Tampermonkey 中保存）
 3. 打开微信读书网页版即可生效
 
@@ -38,4 +38,6 @@
 
 ## 许可证
 
-[MIT](./LICENSE)
+[CC BY-NC 4.0](./LICENSE)（知识共享署名-非商业性使用 4.0）。
+
+**本脚本禁止用于任何商业用途。** 你可以自由分享、修改本脚本，但必须：保留原作者署名、注明是否作出了修改、且不得用于商业目的。完整条款见 [LICENSE](./LICENSE) 文件。

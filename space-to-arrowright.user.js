@@ -8,7 +8,11 @@
 // @match        https://*.weread.qq.com/*
 // @run-at       document-start
 // @grant        none
-// @license      MIT
+// @license      CC-BY-NC-4.0
+// @homepageURL  https://github.com/java-walker/weread-web-optimizer
+// @supportURL   https://github.com/java-walker/weread-web-optimizer/issues
+// @updateURL    https://cdn.jsdelivr.net/gh/java-walker/weread-web-optimizer@main/space-to-arrowright.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/java-walker/weread-web-optimizer@main/space-to-arrowright.user.js
 // ==/UserScript==
 
 (function () {
